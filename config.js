@@ -19,6 +19,8 @@ global.owner = [
   ['59895555511', '💫 Mystic - Collaborator 8 💫', false],
   ['51934308885', '💫 Mystic - Collaborator 9 💫', false],
   ['51904841810', '💫 Mystic - Collaborator 10 💫', false],
+  ['5493873323036', '💫 Mystic - Collaborator 11 💫', false],
+  ['5493873448175', '💫 Mystic - Collaborator 12 💫', false],
   ['393518398856','💫 Mystic - Tester Fabri115💫', false],
   ['593968585283'],
   ['5219993404349'],
